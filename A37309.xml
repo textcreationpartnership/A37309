@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Death and burial of Mistresse Money with her will she made at her departure : and what happened afterwards to the usurer that buried her.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37309</idno>
+            <idno type="STC">Wing D500</idno>
+            <idno type="STC">ESTC R7738</idno>
+            <idno type="EEBO-CITATION">13240275</idno>
+            <idno type="OCLC">ocm 13240275</idno>
+            <idno type="VID">98623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Death and burial of Mistresse Money with her will she made at her departure : and what happened afterwards to the usurer that buried her.</title>
+               </titleStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes, and are to be sold by Charles Tyus ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usury --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:98623:1"/>
+            <pb facs="tcp:98623:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of bucolic scene with two people in a field, a house, and a horse</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:98623:2"/>
+            <p>Licenſed.</p>
+            <p>
+               <figure>
+                  <figDesc>decorative border for license</figDesc>
+                  <head>E. C.</head>
+                  <figure>
+                     <head>GAD</head>
+                     <figDesc>depiction of Gad</figDesc>
+                  </figure>
+                  <figure>
+                     <head>ASAP</head>
+                     <figDesc>depiction of Asaph</figDesc>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98623:2"/>
+            <p>The DEATH and BURIAL OF Miſtreſſe <hi>MONEY.</hi>
+            </p>
+            <p>With her Will ſhe made at her Departure: And what happened af<g ref="char:EOLhyphen"/>terwards to the Uſurer that Buried Her.</p>
+            <figure>
+               <figDesc>depiction of the burial of Mistress Money</figDesc>
+            </figure>
+            <p>
+               <hi>London</hi> Printed by <hi>E. Cotes,</hi> and are to be ſold by <hi>Charles Tyus</hi> at the Three Bibles on <hi>London-Bridge.</hi> 1664.</p>
+         </div>
+         <div type="argument">
+            <pb facs="tcp:98623:3"/>
+            <head>ARGVMENTVM hujus Libri.</head>
+            <lg>
+               <l>
+                  <hi>THeſauro invento qui limina mortis juibat,</hi>
+               </l>
+               <l>
+                  <hi>liquit ovans laquem, quo periturus erat,</hi>
+               </l>
+               <l>
+                  <hi>At qui quod terra abdiderat, non repperit au<g ref="char:EOLhyphen"/>rum</hi>
+               </l>
+               <l>
+                  <hi>quem laqueum invenit, nexuit; &amp; periit.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>AN Uſurer did hide his gold</l>
+               <l>which two young Lovers finde,</l>
+               <l>And having took the gold away,</l>
+               <l>Did leave a Rope behind.</l>
+            </lg>
+            <lg>
+               <l>The Uſurer finding of the Rope,</l>
+               <l>and miſſing of his Wealth,</l>
+               <l>Did take the Rope that he had found,</l>
+               <l>and therewith hang'd himſelfe.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_the_death_and_burial_of_Mistress_Money">
+            <pb facs="tcp:98623:3"/>
+            <head>THE DEATH AND BURIAL OF MISTRIS <hi>MONEY.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the earth for her wan<g ref="char:EOLhyphen"/>tonneſſe in Summer did pen<g ref="char:EOLhyphen"/>nance in a white ſheete of Snow; and when the ſhort dayes, and long Evenings gave aſſured tokens that it was the depth of Winter: The covetous wretch, old <hi>Avarez,</hi> to ſave fire and candle, went to Bed, where having meditated a while on his Trunke of Golden earth, which ſtood in his Chamber, and now finding him<g ref="char:EOLhyphen"/>ſelfe diſpaſed to ſleepe, hee made this ſhort Prayer.
+<q>
+                  <l>Whether I do ſleep or reſt,</l>
+                  <l>
+                     <hi>Pluto</hi> ſtill defend my Cheſt.</l>
+               </q>
+            </p>
+            <pb facs="tcp:98623:4"/>
+            <p> And no ſooner had ſpoke theſe words but hee fell faſt aſleepe before he could ſay <hi>Amen.</hi> But yet though his ſenſes were bound up with the ſilken chains of ſleepe, yet his minde (ever watchfull over his gold) and jealous of the loſing it, drew him into a fearfull dreame, Which was that theeves had aſſaulted his houſe (hee living alone with an old Mayde called <hi>Kerdona</hi>) &amp; that they were ready to breake open that Cheſt wherein all his trraſure lay. The feare of this Dreame had ſo ſur<g ref="char:EOLhyphen"/>prized his fancie, that thinking hee heard the locke cracke; and that his angels were taking their flight, be leapt out of his bed; and his cloathes hapning to lye upon his Trunke, thinking it to bee one of the Theeves, catching faſt hold thereon; and ſo holding the Trunke and cloathe faſt in his armes, calls out aloud for helpe. <hi>Kerdona</hi> his Mayde hearing this noiſe, and having ſayde by her Smocke when ſhee went to bed, becauſe it ſhould not weare out, come running unto him ſtarke naked: Where you may thinke what a ſtrange ſight it was to ſee the mayde per<g ref="char:EOLhyphen"/>ſwade
+<pb facs="tcp:98623:4"/>her maſter that there wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſe of fear? No, ſayes old <hi>Avarez,</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy I have one of the Theeves under me, come helpe me to hold him fact. Alas ſaies the Mayde, it is your owne clo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths. I will not beleeve that ſayes he, till I ſee more. With that the Mayde lights a candle, and coming towards her maſter, I hope ſir ſayes ſhee you will now ſee the truth of all: with that her maſter looking upon her, and ſeeing her ſtarke naked, hee fals backward into a ſwound, crying O <hi>Cupid,</hi> I never knew the power of thy bugle how till now, tis pitty (ſaies hee) thou ſhouldſt live a Mayde longer, and therewithall embra<g ref="char:EOLhyphen"/>cing his Mayde <hi>Kerdona,</hi> he fitted his own Arrow to her Bow-ſtring, and that night got a baſtard on her, called ſenne in the hundred.</p>
+            <div type="part">
+               <pb facs="tcp:98623:5"/>
+               <head>How <hi>Kerdona</hi> did riſe from her Maſter old <hi>Avarez:</hi> and how he went the next day to Bury his Gold.</head>
+               <p>
+                  <hi>KERDONA</hi> having all this night laine with an old Man, and beeing weary with his tedious ſumbling, at laſt lightly ſlipt ont of the Bed, as good a Mayde as ſhee came in. And ſo ſtealing down, ſhee intended to ſend for her ſweet<g ref="char:EOLhyphen"/>heart, who ſhould finiſh that taske of plea<g ref="char:EOLhyphen"/>ſure which the other had ſo flightly begun, and accordingly ſhee ſent a meſſenger for him. Now in the mean time Old <hi>Ava<g ref="char:EOLhyphen"/>rez</hi> calling to minde the terrour and feare of his former Dreame, preſently reſolves upon a new courſe, which was, to avoyde the like perplexitie, he meant to bury his Money, being the ſafeſt way, (as hee thought) that poſibly could be invented,
+<pb facs="tcp:98623:5"/>For ſayes he, then I may ſleepe ſecurely on my Pillow, nor can any Dreames af<g ref="char:EOLhyphen"/>fright me with the fear of looſing my be<g ref="char:EOLhyphen"/>loved Gold. Being thus reſolved, up hee gets, and having put on his old furr'd Gowne, away he goes into the fields, with a ſpade in one hand, and a great bagge of Gold in the other hand, meaning to bury his money privately without any Cere<g ref="char:EOLhyphen"/>monies, himſelfe being both Prieſt and Sexton: ſo having made a deep hole un<g ref="char:EOLhyphen"/>der the roote of a tree, he layes therein his bagge of money; and as he was going to ſay Earth to Earth, a Spirit ſitting upon the bagge in the likeneſſe of a Reden, ſpake thus unto him in the behalfe of Mi<g ref="char:EOLhyphen"/>ſtreſſe Money. I hope Maſter <hi>Avarez</hi> you will not commit ſo ſoule a deed as to bury Miſtreſſe Money alive, for know that all the world lives by her, and ſhee being bu<g ref="char:EOLhyphen"/>ried, the whole world would be all amort. Shee is the life of the living, the comfort of the rich, the hope of the poor, and there<g ref="char:EOLhyphen"/>fore ſhee dying and being buried, all world<g ref="char:EOLhyphen"/>ly hope and comfort dies with her. How<g ref="char:EOLhyphen"/>ever, I hope if you will needs bury her, yet
+<pb facs="tcp:98623:6"/>ſuffer her to make her Will. <hi>Avarez</hi> wil<g ref="char:EOLhyphen"/>lingly agreed hereunto, and did the ſpirit tell him what ſhee deſired. Why ſaies the Spirit, this is her Will.</p>
+               <p>MIſtreſſe Money, being ſicke in bo<g ref="char:EOLhyphen"/>dy as you may perceive by her pale looke, but healthful in minde, bequeaths her body to be buryed under this Tree, and her ſoule to the infernall Vault be<g ref="char:EOLhyphen"/>low.</p>
+               <p>Alſo ſhee gives and bequeaths unto her Friends in manner and forme as fol<g ref="char:EOLhyphen"/>lowes.</p>
+               <p>To young Miſtreſſe <hi>Tireby,</hi> who for my ſake firſt loſt her mayden head, and afterwards turned a common whore, I give five pound to fetch her beſt gowne out of pawne.</p>
+               <p>To young maſter <hi>Raſtley</hi> a Gameſter, who hath often quarrelled in my behalfe, I give forty ſhillings to ſweare and drinke ſacke withall.</p>
+               <pb facs="tcp:98623:6"/>
+               <p> To maſter <hi>All ſup</hi> the Broker I give ſix pence for a halter.</p>
+               <p>To maſter <hi>Fatling</hi> an Inn-keeper, I give twenty ſhillings to paint his ſigne withall.</p>
+               <p>To the incurable Hoſpital of Knaves and Fooles I give three pence <hi>per annum</hi> for Whips and Coxcombs.</p>
+               <p>To the Schollers I give nothing.</p>
+               <p>
+                  <hi>Item,</hi> to thoſe Drunkards that have ſpent all their money over-night, I give ſix pence for a mornings draught.</p>
+               <p>
+                  <hi>Item,</hi> to Maſter <hi>Nonſence</hi> a young heire, I give four pence to buy <hi>Greenes</hi> Groatſ<g ref="char:EOLhyphen"/>worth of wit.</p>
+               <p>
+                  <hi>Item,</hi> to Maydes that have no portions, I give five ſhillings to buy a chaine to lead Apes in hell withall.</p>
+               <p>
+                  <hi>Item,</hi> to him that hath a ſcoulding wife, I give twelve pence to go to the alehouſe; and if ſhee follow him thither, I give him ſixe pence to buy holly wands to ſwaddle her withall.</p>
+               <pb facs="tcp:98623:7"/>
+               <p> 
+                  <hi>Item,</hi> to maides that are in Love, I give pence apeece, to buy the next new ballet of Love, that ſo they may ſing it o<g ref="char:EOLhyphen"/>ver their Milking pails.</p>
+               <p>
+                  <hi>Item,</hi> to a grave chamber maid that ve<g ref="char:EOLhyphen"/>ry graceleſly has loſt her mayden-head, I give ſix pence to carry her water to the Doctor.</p>
+               <p>
+                  <hi>Item,</hi> to <hi>Tobacconiſts,</hi> I give ſix pence for a bruſh to ſcoure their ſmoaky throats.</p>
+               <p>
+                  <hi>Item,</hi> To the poore of the Towne of <hi>Noneſuch,</hi> I give three pounds ſacking threeſcore ſhillings.</p>
+               <p>
+                  <hi>Item,</hi> to them that keepe the Roade way of preferment, otherwayes called highway<g ref="char:EOLhyphen"/>men or theeves, I give five ſhillings for a falſe Beard and Piſtol.</p>
+               <p>
+                  <hi>Item,</hi> to Country Book-ſellers, I give three pence to buy this new book withall.</p>
+               <p>And ſo him that writ it, I give what hee can get, and ſo he will thanke you for no<g ref="char:EOLhyphen"/>thing.</p>
+               <pb facs="tcp:98623:7"/>
+               <p> THeſe are all the poo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e legacies which Miſtreſſe Money intends to trouble you withal at this time, hoping you will be a juſt Executor in performing her laſt Will and Teſtament. Old <hi>Avarez</hi> having heard what the ſpirit ſaid, conſents to all that was demanded of him; <hi>Avarez</hi> tyes the ſtrings of the leather bag ſo cloſe toge<g ref="char:EOLhyphen"/>ther, that he ſtrangled Miſtreſſe Money by letting no ayre come unto her, and after<g ref="char:EOLhyphen"/>ward buries her, and the paper which ſhee had made, both in one grave: and ſo having laid Earth upon his golden Earth, think<g ref="char:EOLhyphen"/>ing now it ſafe enough, he goes merrily home, while his braine ſeemed to ring a peals of bels in this manner.</p>
+               <lg>
+                  <l>
+                     <hi>Avarez <hi>has done well,</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Then ring out every bell:</hi>
+                  </l>
+                  <l>
+                     <hi>For I have laid my Gold,</hi>
+                  </l>
+                  <l>
+                     <hi>Within the earths fair mold.</hi>
+                  </l>
+               </lg>
+               <lg type="refrain">
+                  <l>
+                     <hi>Ding, dong, ding, dong.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:98623:8"/>
+               <head>How <hi>Kerdona</hi> and her Sweet<g ref="char:EOLhyphen"/>heart having ſtood by all this while unſeene, found <hi>Avarez</hi> gold.</head>
+               <p>NO ſooner was the old <hi>Avarez</hi> gone home, reioycing that his money was now paſt theeves handling, when <hi>Kerdona</hi> and her ſweet-heart came forth from be<g ref="char:EOLhyphen"/>hinde a buſh, where they had laine in amo<g ref="char:EOLhyphen"/>rous dalliance, and had beheld what had paſt between <hi>Avarez</hi> and the ſpirit; and had ſeene how injuriouſly hee ſtiffed, &amp; then buried Miſtris Money. But <hi>Kerdona</hi> a long time through duty to her Maſter, perſwa<g ref="char:EOLhyphen"/>ded him to let the body reſt: How? ſayes her lover, I will not be guilty of her death for a Hundred pounds, and therefore let us make haſte to digge her up againe, for perhaps the warmth of my pocket may recover her. So they both went to the
+<pb facs="tcp:98623:8"/>Grave which <hi>Avarez</hi> had made under the Tree, and ſcratching away <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Earth with both their hands, they found Miſtreſſe Money ſtarke dead, in which manner ſhee has ever ſince continued, for your tradſe<g ref="char:EOLhyphen"/>men complaine that money is dead, and your Countrymen finde fault that money is dead too. So that ever ſince <hi>Avarez</hi> buryed his money, there has been a dead time of money both in Country and City. But let that paſſe: <hi>Kerdona</hi> and her lover having taken up the Vſurers gold, and ha<g ref="char:EOLhyphen"/>ving found the Will which was buryed with it, her lover ſweare he will performe all that was contained therein, ſeeing that it was Miſtreſſe Moneys charity to beſtow it upon ſuch members of the Common<g ref="char:EOLhyphen"/>wealth: as Whores, and Knaves, and the like. Nay then ſayes <hi>Kerdona,</hi> ſince you have gain'd this by my Fortunate Love, which brought you to theſe fields, let us ſend for a Licenſe, and let this buriall bee turned into our Bridall, I am contented ſaid the Lover, but firſt (ſayes he) that <hi>Avarez</hi> when bee digges up this earth againe may ſay that we are
+<pb facs="tcp:98623:9"/>conſcionable theeves, I meane to leave him this halter and this paper, which con<g ref="char:EOLhyphen"/>teined theſe Verſes.
+<q>
+                     <l>
+                        <hi>He muſt ſure be a covetous knave,</hi>
+                     </l>
+                     <l>
+                        <hi>That hid his mony in a grave,</hi>
+                     </l>
+                     <l>
+                        <hi>For ſuch as he makes money dead,</hi>
+                     </l>
+                     <l>
+                        <hi>But let him know his money's fled;</hi>
+                     </l>
+                     <l>
+                        <hi>Which when he miſſes I doe hope</hi>
+                     </l>
+                     <l>
+                        <hi>Hee'le hang himſelfe in this ſame rope.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>So having caſt in the Earth upon the halter and paper, they both went home<g ref="char:EOLhyphen"/>ward, meaning to be married the next day.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:98623:9"/>
+               <head>How <hi>Kerdona,</hi> and her Sweet-heart were married, and how <hi>Avarez</hi> would have hanged himſelf, but that he was prevented.</head>
+               <p>THe Sun was no ſooner riſen fr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his Roſie b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, but the two Lovers made haſt to riſe after him, and away they went to Church, where the Parſon quickly <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e them man and wife; and thinking to ſt<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l home again together, they h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pned to come to that <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, from whence the day before they eſpyed <hi>Avarez</hi> burying his Gold. And ſo being invited by the natural del<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght of the place, and the flames of love beginning to blaze forth at their lip<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; they both conſen<g ref="char:EOLhyphen"/>ted to lye down a while, and quench that riſing flame with the hony dew of <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſſes. But they had not lain here long, when they might perceive <hi>Avarez</hi> comming to<g ref="char:EOLhyphen"/>warde the tree, where he had buryed his gold, and looking round about, finding the co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt cleere, a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d that no body ſaw him, he began to ſcrape with <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth hands li<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that would fain hide a marry bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ing that he could not ſee his b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g of Gold, at l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt he <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ro<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, which being pluckt out of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id
+<pb facs="tcp:98623:10"/>end in a fair halter, and brought forth with it the former paper of verſes; the old man not knowing what to think, open ſhe pa<g ref="char:EOLhyphen"/>per, and there reading the two laſt lines,
+<q>
+                     <l>Which when he miſſes, I doe hope,</l>
+                     <l>Hee'l hang himſelfe in this ſame rope.</l>
+                  </q>
+               </p>
+               <p>He begins thus to reaſon with himſelfe: Hang my ſelfe, ſaith he, yes I will hang my ſelf, for now I perceive that my gold is ſtolne from hence, and that the arrant theefe in <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>orne hath left me this halter to end my dayes withal; well, I will hang my ſelf I need no Iury to pronounce me guilty, for I confeſſe my ſelf guilty of much folly in biding my gold, and thinking to ſave it: Was it not ſafe enough in my Trunk? (foele that I was) but I muſt have new deviſes of my own to bury it without bell, booke, or candle; but I ſee we old men doat, and thinking to be over-wiſe, prove extreamly ridiculous. Having thus ſaid, curſed himſelf often, and fear<g ref="char:EOLhyphen"/>ing his <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e for the loſſe of his gol<g ref="char:EOLhyphen"/>den coyn, he get<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at laſt upon a high hedge, and having faſtned one end of the halter to a bough of the ſame tree (under which hee
+<pb facs="tcp:98623:10"/>had buried his gold) he puts the nooſe over his neck, and then begins to confeſſe in t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manner. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear me you wood and trees, while I conf<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe that I have worthily deſerved of is kinde of death, for know all, that it is ſuch as I am, that makes money ſo dead in the world as it is: while we cc<g ref="char:EOLhyphen"/>vetous wretches hide and bury our Gold; for mee I hope the world will forgive mee, but for my ſake I wiſh, that thoſe that hereafter bury their Gold, may firſt looſe it as I have done, and then hang them<g ref="char:EOLhyphen"/>ſelves as I mean to doe; and hereviſhal being ready to caſte himſelfe off the hedge, the two Lovers (who all this while had heard his confeſſion) came in and ſafed him from the gallowes, and comforting him for the loſſe of his Gold, which they had gotten, at laſt with many perſwa<g ref="char:EOLhyphen"/>ſions brought him home, where for very griefe not long after he hung himſelf in his owne Gartere. And thus have you ſeene that marriage and hanging goes by deſtiny, for the finding of this Gold made <hi>Kerdona</hi> and her ſweet-heart marry &amp; the looſing of this gold made the Vſurer hang himſelfe, which was a fit end for an Vſu<g ref="char:EOLhyphen"/>rer, and ſo I end with <hi>Finis, Funis.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="moral_of_story">
+            <pb facs="tcp:98623:11"/>
+            <head>The Morall Meaning of this <hi>BOOKE.</hi>
+            </head>
+            <p>AVAREZ fearful dreame ſhewes, that the Poore man ſleepes more quietly than the Rich man. <hi>Kerdena</hi> is as much as to ſay gaine, from <hi>lucrum;</hi> ſo that <hi>Avarez</hi> getting his Mayde <hi>Kerdona</hi> with childe, does ſhew, that Uſury does beget upon gaine, ten in the hundred. <hi>Avarez</hi> burying his gold, and yet looſing it, does ſhew that we ſhould rather lay up our Treaſure in Heaven than in Earth. <hi>Kerdona's</hi> marrying with a young gallant and making him finde <hi>Avarez</hi> gold, does ſhew, that which is gotten miſerably does at laſt come to ſome prodigal hand, and ſo is ſpent wickedly. And this is the morall meaning that this ſhort ſtory doth afford.</p>
+         </div>
+         <div type="elegiac_verses">
+            <pb facs="tcp:98623:11"/>
+            <head>Funerall Verſes upon the Death and Buriall of Miſtreſſe <hi>Money,</hi> with the number of Mourners that will be ſorry for her Departure.</head>
+            <lg>
+               <l>COme hither you worldlings all,</l>
+               <l>lament for your dear honey:</l>
+               <l>For here you may ſee the funerall,</l>
+               <l>and burial of Miſtreſſe Money.</l>
+            </lg>
+            <lg>
+               <l>We need not ſtretch invention,</l>
+               <l>with praiſes to adorn her,</l>
+               <l>For though ſhe be dead and buryed,</l>
+               <l>ſhe will have many a mourner.</l>
+            </lg>
+            <lg>
+               <l>The ſwaggering gallant will mourns</l>
+               <l>in ſable weeds hereafter,</l>
+               <l>For now he cannot roar any more,</l>
+               <l>ſince Moneyes ſad departure.</l>
+            </lg>
+            <lg>
+               <l>The Tapſter too will mourne,</l>
+               <l>for his ſcores are now releaſed:</l>
+               <l>He muſt ſtay, for who can pay,</l>
+               <l>when Money is deceaſed?</l>
+            </lg>
+            <lg>
+               <l>The young Heire too will mourne,</l>
+               <l>when Money cannot be procured:</l>
+               <l>With morgage of land, &amp; ſetting his hand</l>
+               <l>for Miſtreſſe Money is buryed.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:98623:12"/>
+               <l>Your wanton Laſſes will mourne,</l>
+               <l>that themſelves for Money hired:</l>
+               <l>For they in Term they nothing can erne</l>
+               <l>ſince Money is thus expired.</l>
+            </lg>
+            <lg>
+               <l>The Souldier too will mourne,</l>
+               <l>that in the warrs hath ſerved:</l>
+               <l>For he muſt ſtay now for his pay,</l>
+               <l>which he before deſerved.</l>
+            </lg>
+            <lg>
+               <l>The Country man will mourne</l>
+               <l>when he doth hear it told,</l>
+               <l>That Money is dead and buryed,</l>
+               <l>for how ſhall his corne be ſold?</l>
+            </lg>
+            <lg>
+               <l>The Scholler too will mourne,</l>
+               <l>for his Verſes can never flouriſh,</l>
+               <l>Nor can he write with any delight,</l>
+               <l>till money his Muſes doe cheeriſh.</l>
+            </lg>
+            <lg>
+               <l>Blind <hi>Cupid</hi> a Mourner will be,</l>
+               <l>for he is now aſſured,</l>
+               <l>That he ſhall never ſuch matches ſee</l>
+               <l>as money hath often procured.</l>
+            </lg>
+            <lg>
+               <l>Your Gentlewomen will mourne,</l>
+               <l>and their hearts will now he fainting,</l>
+               <l>For they may ſtay full many a day</l>
+               <l>if their portion be but wanting.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:98623:12"/>
+               <l>The Countrey Mayds will mourne,</l>
+               <l>for they at home muſt tarry;</l>
+               <l>Nor can they repaire to Market or Faire,</l>
+               <l>if they no money do carry.</l>
+            </lg>
+            <lg>
+               <l>The Fidlers they will mourne,</l>
+               <l>and with their trade be wearied,</l>
+               <l>They'le ſcrape no more at your chamber dore</l>
+               <l>ſince Mony is dead and buryed.</l>
+            </lg>
+            <lg>
+               <l>The Sheepherds they will mourne,</l>
+               <l>for though their flocks are increaſed,</l>
+               <l>Yet their wool on the plain, will yeeld no gain,</l>
+               <l>ſince money is now deceaſed.</l>
+            </lg>
+            <lg>
+               <l>Your Chapmen too will mourne,</l>
+               <l>for now they are aſſured</l>
+               <l>They cannot have ware to ſell at the faire</l>
+               <l>ſince Money is dead and buryed.</l>
+            </lg>
+            <lg>
+               <l>The Tobacco-men will mourne,</l>
+               <l>and be full heavy hearted,</l>
+               <l>For with their ſmoke themſelves they may choke</l>
+               <l>ſince Money is thus departed.</l>
+            </lg>
+            <lg>
+               <l>The Oſtler he will mourne,</l>
+               <l>for ſince Moneys funerall,</l>
+               <l>Though your horſe he dreſs, yet neverthe<g ref="char:EOLhyphen"/>leſſe</l>
+               <l>his gettings will be very ſmall</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:98623:13"/>
+               <l>The Countrey Innes will mourne,</l>
+               <l>for they have little trading:</l>
+               <l>Since Money is dead and buryed,</l>
+               <l>their cuſtome will be fading.</l>
+            </lg>
+            <lg>
+               <l>Your Water-men will mourne,</l>
+               <l>for Gentlemen hereafter,</l>
+               <l>Since Money is dead and buryed,</l>
+               <l>will goe with a Skuller by water.</l>
+            </lg>
+            <lg>
+               <l>And all good fellows will mourne,</l>
+               <l>for how ſhould they be merry:</l>
+               <l>They have reaſon to curſe the Uſurer,</l>
+               <l>that did Miſtreſſe Money bury.</l>
+            </lg>
+            <lg>
+               <l>Thus Money was ſo beloved,</l>
+               <l>that no man ever did ſcorn her</l>
+               <l>And now being dead and buryed,</l>
+               <l>the whole world will be her mourner.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98623:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
